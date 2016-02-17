@@ -1,5 +1,4 @@
 # Cultuurhistoriche-atlas-Leiden
-Cultuurhistorische atlas van de gemeente Leiden
 
 De waarderingskaart cultuurhistorisch erfgoed geeft een overzicht van de waarde van cultuurhistorische resten die in Leiden nog aanwezig of (in structuur) herkenbaar zijn. Wat in de loop der tijd verdwenen is en ook niet meer als structuur/relict herkenbaar is, staat niet op deze kaart. De kaart is onderdeel van de cultuurhistorische atlas van Leiden. Deze atlas maakt de ontstaansgeschiedenis en ontwikkeling van de stad door middel van kaarten zichtbaar. Ook geeft het een overzicht van nog aanwezige cultuurhistorische resten, zodat deze beter beschermd en behouden blijven. Daarmee zet de gemeente Leiden cultuurhistorisch erfgoed op de kaart als uitgangspunt én inspiratiebron voor nieuwe ontwikkelingen in de stad.
  
