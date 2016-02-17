@@ -12,7 +12,7 @@ De waarderingskaart cultuurhistorisch erfgoed is opgedeeld in een aantal kaartla
 
 Al deze waarderingskaarten zijn gebaseerd op een inventarisatie. De resultaten van deze inventarisatie zijn weergegeven in informatiekaarten. Hierbij bestrijken we de gehele bewoningsduur van de regio, vanaf de prehistorie tot het jaar 1968. Relicten van latere datum staan niet op de kaart. De informatiekaarten geven alle cultuurhistorische resten weer die in Leiden aanwezig zijn of zijn geweest. Op de informatiekaarten zijn dus ook de verdwenen objecten weergegeven.
  
-Waarderingskader
+<br><b>Waarderingskader</b><br>
 Alhoewel veel historische elementen in de loop der tijd zijn verdwenen, zijn er op veel plaatsen in de stad resten uit het verleden in meer of mindere mate nog steeds zichtbaar. Voor al deze zichtbare elementen is vastgesteld hoe waardevol ze zijn.
 Op dit moment is er van een algemeen geaccepteerd waarderingskader voor cultuurhistorische objecten anders dan voor rijksmonumenten en archeologische vindplaatsen nog geen sprake. Ten behoeve van dit project is zijn twee waarderingskaders opgesteld: voor gebouwd en overig erfgoed. 
 
